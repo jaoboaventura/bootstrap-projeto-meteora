@@ -1,0 +1,23 @@
+.texto-menor {
+    font-size: 13px;
+}
+
+.divs-facilidades {
+    width: 325px;
+}
+
+.cor-lilas-btn {
+    background-color:#9353FF;
+    width: fit-content;
+}
+
+.cor-lilas-btn-form {
+    background-color: #9353FF;
+    border: 2px solid #9353FF;
+    color: white;
+}
+
+.texto-verde,
+.icone-verde {
+    color: #DAFF01;
+}
