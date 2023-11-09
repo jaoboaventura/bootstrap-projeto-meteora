@@ -6,18 +6,21 @@
     width: 325px;
 }
 
-.cor-lilas-btn {
-    background-color:#9353FF;
-    width: fit-content;
+.div-novidades {
+    width: 325px;
 }
 
-.cor-lilas-btn-form {
+.botao-lilas {
     background-color: #9353FF;
-    border: 2px solid #9353FF;
-    color: white;
 }
 
-.texto-verde,
-.icone-verde {
+.verde-limao {
     color: #DAFF01;
+}
+
+@media(min-width: 768px) {
+
+    .div-novidades {
+        width: 696px;
+    }
 }
