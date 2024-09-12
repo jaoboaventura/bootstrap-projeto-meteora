@@ -1,7 +1,7 @@
 🇧🇷 # Meteora 🇧🇷
 
 Projeto desenvolvido com Bootstrap 5 como parte do curso "Bootstrap 5: crie uma landing page responsiva" da plataforma Alura. <br>
-[Certificado do curso](https://cursos.alura.com.br/certificate/4100413a-6ff6-4cc3-b793-26d7453f9849)
+[Certificado do curso](https://cursos.alura.com.br/certificate/271bd43d-6621-4141-b5ce-807eb3bb6c84)
 
 ## Matriz curricular
 
@@ -60,7 +60,7 @@ Projeto desenvolvido com Bootstrap 5 como parte do curso "Bootstrap 5: crie uma 
 🇺🇸 # Meteora 🇺🇸
 
 Project developed with Bootstrap 5 as part of the course "Bootstrap 5: create a responsive landing page" from the Alura platform. <br>
-[Course Certificate](https://cursos.alura.com.br/certificate/4100413a-6ff6-4cc3-b793-26d7453f9849)
+[Course Certificate](https://cursos.alura.com.br/certificate/271bd43d-6621-4141-b5ce-807eb3bb6c84)
 
 ## Curriculum
 
